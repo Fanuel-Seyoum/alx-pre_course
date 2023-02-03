@@ -1,2 +1,1 @@
-My first readme
-This is my first edit in the github user interface
+My first readme\nThis is my first edit in the github user interface
